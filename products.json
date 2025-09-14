@@ -1,0 +1,9 @@
+[
+    {
+        "id": 100,
+        "name": "пк",
+        "price": 400000.0,
+        "weight": 3.0,
+        "supplier": "hyperx"
+    }
+]
